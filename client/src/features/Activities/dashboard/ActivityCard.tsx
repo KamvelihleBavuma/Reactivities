@@ -10,7 +10,7 @@ import {
   Divider,
   Typography,
 } from "@mui/material";
-import { Link } from "react-router";
+import { Link } from "react-router"; 
 import { formatDate } from "../../../lib/util/util";
 
 type Props = {
